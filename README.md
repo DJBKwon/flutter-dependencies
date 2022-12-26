@@ -1,11 +1,11 @@
 # Flutter Dependency Docs
 
-[View your dependencies on pub.dev!](https://marketplace.visualstudio.com/items?itemName=djbkwon.flutter-dependency-docs)
+[View dependencies on pub.dev!](https://marketplace.visualstudio.com/items?itemName=djbkwon.flutter-dependencies)
 ## How?
 
-Click the link above a dependency in `pubspec.yaml`.
+Click the link above a dependency in `pubspec.yaml`!
 
-![view-package](https://djbkwon.github.io/flutter-dependency-docs/img/view-package.png)
+![view-package](https://djbkwon.github.io/flutter-dependencies/img/view-package.png)
 
 ## Credits
 

@@ -1,11 +1,11 @@
 {
-	"name": "flutter-dependency-docs",
-	"version": "1.0.1",
+	"name": "flutter-dependencies",
+	"version": "1.0.3",
 	"publisher": "djbkwon",
-	"displayName": "Flutter Dependency Docs",
-	"description": "View your dependencies on pub.dev!",
+	"displayName": "Flutter Dependencies",
+	"description": "View dependencies on pub.dev!",
 	"engines": {
-		"vscode": "1.74.2"
+		"vscode": "^1.74.2"
 	},
 	"license": "MIT",
 	"categories": [
@@ -24,14 +24,14 @@
 				"search.baseUrl": {
 					"type": "string",
 					"default": "https://pub.dev/",
-					"description": "View your dependencies on pub.dev!"
+					"description": "View dependencies on pub.dev!"
 				}
 			}
 		},
 		"commands": [
 			{
 				"command": "extension.viewDependency",
-				"title": "View your dependencies on pub.dev!"
+				"title": "View dependencies on pub.dev!"
 			}
 		]
 	},
@@ -50,13 +50,13 @@
 		"typescript": "^3.8.3",
 		"vscode": "^1.1.36"
 	},
-	"homepage": "https://github.com/danieljbk/flutter-package-docs",
+	"homepage": "https://github.com/danieljbk/flutter-dependencies",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/danieljbk/flutter-package-docs.git"
+		"url": "https://github.com/danieljbk/flutter-dependencies.git"
 	},
 	"bugs": {
-		"url": "https://github.com/danieljbk/flutter-package-docs/issues",
+		"url": "https://github.com/danieljbk/flutter-dependencies/issues",
 		"email": "djbkwon@gmail.com"
 	}
 }

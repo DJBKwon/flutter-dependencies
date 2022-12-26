@@ -1,41 +1,15 @@
-# Pubspec Dependency Search
+# Flutter Dependency Docs
 
-VSCode extension for flutter developer to easy search package in web browser.
+View your dependencies on pub.dev!
 
-[Click here to install](https://marketplace.visualstudio.com/items?itemName=everettjf.pubspec-dependency-search)
+## How?
 
-## Features
+Click the link above your dependencies in `pubspec.yaml`.
 
-1. Search package name by click in `pubspec.yaml` file.
+![view](/img/view-package.png)
 
-![seach-editor](/img/search-in-editor.png)
+## Credits
 
-2. Search in dart packages site by input package name.
+Coded by [Joonbeom Kwon](https://github.com/danieljbk) & [Everettjf](https://github.com/everettjf).
 
-![seach-command](/img/search-command.png)
-
----
-
-Both search method will open search in web brower : 
-
-![seach-result](/img/search-result.png)
-
-## Requirements
-
-VSCode
-
-## Extension Settings
-
-No settings
-
-## Known Issues
-
-No known issues
-
-## Release Notes
-
-### 1.0.x
-
-Initial release.
-
-**Enjoy!**
+Icon designed by [Freepik](https://www.flaticon.com/authors/freepik).

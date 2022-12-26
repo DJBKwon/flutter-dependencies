@@ -5,12 +5,27 @@
 	"displayName": "Flutter Dependencies",
 	"description": "In one click, view your dependencies on pub.dev!",
 	"engines": {
-		"vscode": "^1.74.2"
+		"vscode": "^1.32.0"
 	},
 	"license": "MIT",
 	"categories": [
 		"Other"
 	],
+	"icon": "img/icon.png",
+	"scripts": {
+		"vscode:prepublish": "yarn run compile",
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install",
+		"test": "yarn run compile && node ./node_modules/vscode/bin/test"
+	},
+	"devDependencies": {
+		"@types/mocha": "^2.2.42",
+		"@types/node": "^10.12.21",
+		"tslint": "^5.12.1",
+		"typescript": "^3.8.3",
+		"vscode": "^1.1.37"
+	},
 	"activationEvents": [
 		"onLanguage:yaml",
 		"onCommand:extension.viewDependency"
@@ -34,21 +49,6 @@
 				"title": "In one click, view your dependencies on Pub.dev!"
 			}
 		]
-	},
-	"icon": "img/icon.png",
-	"scripts": {
-		"vscode:prepublish": "yarn run compile",
-		"compile": "tsc -p ./",
-		"watch": "tsc -watch -p ./",
-		"postinstall": "node ./node_modules/vscode/bin/install",
-		"test": "yarn run compile && node ./node_modules/vscode/bin/test"
-	},
-	"devDependencies": {
-		"@types/mocha": "^2.2.42",
-		"@types/node": "^10.12.21",
-		"tslint": "^5.12.1",
-		"typescript": "^3.8.3",
-		"vscode": "^1.1.36"
 	},
 	"homepage": "https://github.com/DJBKwon/flutter-dependencies",
 	"repository": {

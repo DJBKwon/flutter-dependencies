@@ -1,11 +1,11 @@
 {
 	"name": "flutter-dependency-docs",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "djbkwon",
 	"displayName": "Flutter Dependency Docs",
 	"description": "View your dependencies on pub.dev!",
 	"engines": {
-		"vscode": "^1.32.0"
+		"vscode": "1.74.2"
 	},
 	"license": "MIT",
 	"categories": [

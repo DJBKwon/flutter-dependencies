@@ -1,6 +1,6 @@
 {
 	"name": "flutter-dependency-docs",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"publisher": "djbkwon",
 	"displayName": "Flutter Dependencies",
 	"description": "In one click, view your dependencies on pub.dev!",
@@ -24,14 +24,14 @@
 				"search.baseUrl": {
 					"type": "string",
 					"default": "https://pub.dev/",
-					"description": "In one click, view your dependencies on pub.dev!"
+					"description": "In one click, view your dependencies on Pub.dev!"
 				}
 			}
 		},
 		"commands": [
 			{
 				"command": "extension.viewDependency",
-				"title": "In one click, view your dependencies on pub.dev!"
+				"title": "In one click, view your dependencies on Pub.dev!"
 			}
 		]
 	},

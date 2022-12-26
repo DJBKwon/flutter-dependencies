@@ -1,7 +1,7 @@
 {
 	"name": "flutter-dependency-docs",
 	"version": "1.0.0",
-	"publisher": "danieljbk",
+	"publisher": "djbkwon",
 	"displayName": "Flutter Dependency Docs",
 	"description": "View your dependencies on pub.dev!",
 	"engines": {

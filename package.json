@@ -1,9 +1,9 @@
 {
 	"name": "flutter-dependency-docs",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"publisher": "djbkwon",
-	"displayName": "Flutter Dependencies",
-	"description": "In one click, view your dependencies on pub.dev!",
+	"displayName": "Flutter Links",
+	"description": "Show pub.dev links for your flutter dependencies.",
 	"engines": {
 		"vscode": "^1.32.0"
 	},
@@ -39,24 +39,24 @@
 				"search.baseUrl": {
 					"type": "string",
 					"default": "https://pub.dev/",
-					"description": "In one click, view your dependencies on Pub.dev!"
+					"description": "Show pub.dev links for your flutter dependencies."
 				}
 			}
 		},
 		"commands": [
 			{
 				"command": "extension.viewDependency",
-				"title": "In one click, view your dependencies on Pub.dev!"
+				"title": "Show pub.dev links for your flutter dependencies."
 			}
 		]
 	},
-	"homepage": "https://github.com/DJBKwon/flutter-dependencies",
+	"homepage": "https://github.com/DJBKwon/flutter-links",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/DJBKwon/flutter-dependencies.git"
+		"url": "https://github.com/DJBKwon/flutter-links.git"
 	},
 	"bugs": {
-		"url": "https://github.com/DJBKwon/flutter-dependencies/issues",
+		"url": "https://github.com/DJBKwon/flutter-links/issues",
 		"email": "djbkwon@gmail.com"
 	}
 }

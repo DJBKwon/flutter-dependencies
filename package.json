@@ -1,6 +1,6 @@
 {
 	"name": "flutter-dependency-docs",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"publisher": "djbkwon",
 	"displayName": "Flutter Links",
 	"description": "Show pub.dev links for your Flutter dependencies.",

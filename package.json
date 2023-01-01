@@ -1,6 +1,6 @@
 {
 	"name": "flutter-dependency-docs",
-	"version": "1.0.9",
+	"version": "1.1.0",
 	"publisher": "djbkwon",
 	"displayName": "Flutter Links",
 	"description": "Show pub.dev links for your Flutter dependencies.",
@@ -50,13 +50,8 @@
 			}
 		]
 	},
-	"homepage": "https://github.com/danieljbk/flutter-links",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/danieljbk/flutter-links.git"
-	},
-	"bugs": {
-		"url": "https://github.com/danieljbk/flutter-links/issues",
-		"email": "djbkwon@gmail.com"
 	}
 }

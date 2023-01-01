@@ -1,15 +1,15 @@
 # [Flutter Links](https://marketplace.visualstudio.com/items?itemName=djbkwon.flutter-dependencies)
 
-Show pub.dev links for your flutter dependencies.
+Show [pub.dev](https://www.pub.dev) links for your Flutter dependencies.
 
 ## Where?
 
-You'll see specific [pub.dev](https://www.pub.dev) links for each dependency in `pubspec.yaml`.
+You'll see clickable [pub.dev](https://www.pub.dev) links for each dependency in `pubspec.yaml`.
 
-![view-package](https://djbkwon.github.io/flutter-links/img/view-package.png)
+<img src="https://danieljbk.github.io/flutter-links/img/view-package.png" height="225"/>
 
 ## Credits
 
-Created by [Joonbeom Kwon](https://github.com/danieljbk) & [Everettjf](https://github.com/everettjf).
+Coded by [Joonbeom Kwon](https://github.com/danieljbk) & [Everettjf](https://github.com/everettjf).
 
-Icon designed by [Freepik](https://www.flaticon.com/authors/freepik).
+Icon by [Freepik](https://www.flaticon.com/authors/freepik).

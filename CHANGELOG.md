@@ -1,5 +1,6 @@
 # Change Log
 
+- 1.0.7 Relocated repo.
 - 1.0.6 Renamed.
 - 1.0.5 Minor fixes.
 - 1.0.4 Fixed repo links & changed slogan.

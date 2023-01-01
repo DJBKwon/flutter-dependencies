@@ -10,6 +10,6 @@ vsc-extension-quickstart.md
 .github/
 .gitignore
 node_modules/**
-out/**
+out/test/**
 src/**
 .DS_Store
